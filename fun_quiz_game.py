@@ -43,7 +43,7 @@ else:
 print("\n")
 
 #Asking the fourth question to the user
-answer=input("04. What will be the output of the following Python code?\n my_list = [10, 20, 30, 40, 50]\n print(my_list[2])n ")
+answer=input("04. What will be the output of the following Python code?\n my_list = [10, 20, 30, 40, 50]\n print(my_list[2]) ")
 if answer == "30":
     print("Correct!")
     score+=1
