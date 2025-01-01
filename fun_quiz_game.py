@@ -1,5 +1,5 @@
 #To welcome the user to this python quiz game
-print( "Welcome to this fun quiz game about Python! ")
+print( "HELLO ALL! Welcome to this fun quiz game about Python! ")
 
 #Asking whether the user the wants to play the game
 ans=input("Do you want to play? ")
